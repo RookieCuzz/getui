@@ -1,4 +1,4 @@
-module github.com/dacker-soul/getui
+module github.com/RookieCuzz/getui
 
 go 1.13
 
