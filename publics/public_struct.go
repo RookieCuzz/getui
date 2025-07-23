@@ -7,10 +7,10 @@ const (
 
 // 个推配置文件
 type GeTuiConfig struct {
-	AppId        string `toml:"app_id"`
-	AppKey       string `toml:"app_key"`
-	AppSecret    string `toml:"app_secret"`
-	MasterSecret string `toml:"master_secret"`
+	AppId        string
+	AppKey       string
+	AppSecret    string
+	MasterSecret string
 }
 
 /*
