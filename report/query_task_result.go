@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/dacker-soul/getui/publics"
+	"github.com/rookiecuzz/getui/publics"
 	"io"
 	"net/http"
 	"net/url"

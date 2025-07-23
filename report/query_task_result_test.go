@@ -2,8 +2,8 @@ package report
 
 import (
 	"context"
-	"github.com/dacker-soul/getui/auth"
-	"github.com/dacker-soul/getui/publics"
+	"github.com/rookiecuzz/getui/auth"
+	"github.com/rookiecuzz/getui/publics"
 	"testing"
 )
 

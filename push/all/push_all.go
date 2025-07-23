@@ -4,7 +4,7 @@ package all
 import (
 	"context"
 	"encoding/json"
-	"github.com/dacker-soul/getui/publics"
+	"github.com/rookiecuzz/getui/publics"
 )
 
 // 群推参数

@@ -3,9 +3,9 @@ package getui
 import (
 	"context"
 	"encoding/json"
-	"github.com/dacker-soul/getui/auth"
-	"github.com/dacker-soul/getui/publics"
-	"github.com/dacker-soul/getui/push/single"
+	"github.com/rookiecuzz/getui/auth"
+	"github.com/rookiecuzz/getui/publics"
+	"github.com/rookiecuzz/getui/push/single"
 	"strconv"
 	"time"
 

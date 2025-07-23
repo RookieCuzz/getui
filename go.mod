@@ -1,4 +1,4 @@
-module github.com/RookieCuzz/getui
+module github.com/rookiecuzz/getui
 
 go 1.13
 

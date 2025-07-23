@@ -4,7 +4,7 @@ package all
 import (
 	"context"
 	"encoding/json"
-	"github.com/dacker-soul/getui/publics"
+	"github.com/rookiecuzz/getui/publics"
 )
 
 // 使用标签快速推送参数

@@ -9,14 +9,13 @@
  * 包含两个方法：获取token、删除token
  */
 
-//
 package auth
 
 import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/dacker-soul/getui/publics"
+	"github.com/rookiecuzz/getui/publics"
 )
 
 type TokenParam struct {
